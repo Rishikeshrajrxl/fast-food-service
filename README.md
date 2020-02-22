@@ -6,5 +6,5 @@ https://rishikeshrajrxl.github.io/fast-food-service/
 
 
 <img src="food-service.png" >
-<img src="food.jpg">
-<img src="last pic.jpg">
+<img src="food.png">
+<img src="last pic.png">
