@@ -1,6 +1,6 @@
 # fast-food-service
 
-link is here.<br>Frontend: HTML,CSS
+Frontend: HTML,CSS<br>Link is Here:
 https://rishikeshrajrxl.github.io/fast-food-service/
 
 
